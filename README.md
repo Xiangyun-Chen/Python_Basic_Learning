@@ -6,6 +6,7 @@ This repository records my Python learning journey, from basic syntax and contro
 
 ## 目录
 |name|desription|
+| :---: | :--- |
 |[01_variable_and_type.py](01_variable_and_type.py)| 变量、字面量、基本数据类型及转换。|
 |02_io_operations.py||input 和 print 的使用及字符串操作。|
 |03_control_flow.py|if 条件判断语句。|
