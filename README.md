@@ -8,8 +8,8 @@ This repository records my Python learning journey, from basic syntax and contro
 |name|desription|
 | :---: | :--- |
 |[01_variable_and_type.py](01_variable_and_type.py)| 变量、字面量、基本数据类型及转换。|
-|02_io_operations.py||input 和 print 的使用及字符串操作。|
-|03_control_flow.py|if 条件判断语句。|
+|[02_io_operations.py](02_io_operation.py)||input 和 print 的使用及字符串操作。|
+|03_control_flow.py|if 条件判断、`while` 和 `for` 循环，以及 `break` 和 `continue` 控制语句的实践。|
 
 ## 学习目标
 - 掌握 Python 基础语法。
