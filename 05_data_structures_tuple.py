@@ -67,5 +67,5 @@ student_info[2].remove("football")  # 移除一个爱好
 student_info[2].append("coding")    # 添加一个新爱好
 print(f"更新后学生信息: {student_info}")
 
-# 再次强调：我们修改的是列表 `["football", "music"]`，
+# 我们修改的是列表 `["football", "music"]`，
 # 而不是元组 `student_info` 的结构。元组的第2个元素永远指向那个列表。
