@@ -11,7 +11,7 @@ This repository records my Python learning journey, from basic syntax and contro
 |[02_io_operations.py](02_io_operations.py)|input 和 print 的使用及字符串操作。|
 |[03_control_flow.py](03_control_flow.py)|if 条件判断、`while` 和 `for` 循环，以及 `break` 和 `continue` 控制语句的实践。|
 |[04_data_structures_list.py](04_data_structures_list.py)|介绍列表(List)的创建、访问、增删改查及遍历。|
-|05_functions.py| 介绍函数的定义、参数、返回值、作用域和嵌套调用。|
+|[05_data_structures_tuple.py](05_data_structures_tuple.py)|元组(Tuple)的介绍，突出其不可变特性及应用场景。|
 |06_综合案例_ATM.py|一个结合了函数、循环和全局变量的简单ATM机模拟程序。|
 
 ## 学习目标
