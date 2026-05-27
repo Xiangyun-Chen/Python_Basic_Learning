@@ -13,6 +13,7 @@ This repository records my Python learning journey, from basic syntax and contro
 |04_data_structures_list|介绍列表(List)的创建、访问、增删改查及遍历。|[Python](04_data_structures_list.py)|
 |05_data_structures_tuple|元组(Tuple)的介绍，突出其不可变特性及应用场景。|[Python](05_data_structures_tuple.py)|
 |06_data_structure_string|字符串的特性、索引、常用方法。|[Python](06_data_structures_string.py)|
+|07_data_structures_set|集合(Set)的介绍，用于去重和数学运算。|[Python](07_data_structures_set.py)|
 |06_综合案例_ATM.py|一个结合了函数、循环和全局变量的简单ATM机模拟程序。|
 
 ## 学习目标
