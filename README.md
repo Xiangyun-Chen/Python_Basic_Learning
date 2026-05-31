@@ -17,6 +17,7 @@ This repository records my Python learning journey, from basic syntax and contro
 |08_slicing_operation|序列类型通用的切片操作指南。|[Python](08_slicing_operations.py)|
 |09_data_structures_dict|字典(Dictionary)的全面指南，Python核心数据结构。|[Python](09_data_structures_dict.py)|
 |10_builtin_functions_sorted|通用排序函数 `sorted()` 的用法详解。|[Python](10_builtin_functions_sorted.py)|
+|11_file_operations|Python 文件操作（读、写、追加模式，with语句，及综合练习）|[Python](11_file_operations.py)|
 |06_综合案例_ATM.py|一个结合了函数、循环和全局变量的简单ATM机模拟程序。|
 
 ## 学习目标
