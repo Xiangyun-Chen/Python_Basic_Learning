@@ -19,11 +19,11 @@ This repository records my Python learning journey, from basic syntax and contro
 |10_builtin_functions_sorted|通用排序函数 `sorted()` 的用法详解。|[Python](10_builtin_functions_sorted.py)|
 |11_file_operations|Python 文件操作（读、写、追加模式，with语句，及综合练习）|[Python](11_file_operations.py)|
 |12_functions|函数的定义、参数、返回值、作用域，以及高级用法（多返回值、*args, **kwargs, 函数作参数, lambda）。|[Python](12_functions.py)|
-|06_综合案例_ATM.py|一个结合了函数、循环和全局变量的简单ATM机模拟程序。|
+|13_comprehensive_case_atm|一个结合了函数、循环和全局变量的简单ATM机模拟程序。|[Python](13_comprehensive_case_atm.py)|
 
 ## 学习目标
 - 掌握 Python 基础语法。
-- 为后续学习 Pandas、Matplotlib 及进行统计数据分析打下基础。
+- 为后续学习 Numpy、Pandas、Matplotlib 及进行统计数据分析打下基础。
 
 ---
-*记录于 2026年，持续更新中...*
+*记录于 2026年，已更新完成*
